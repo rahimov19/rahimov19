@@ -17,4 +17,6 @@ You can click the Preview link to take a look at your changes.
 <img class="img" src="https://raw.githubusercontent.com/rahimov19/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
 <img class="img" src="https://raw.githubusercontent.com/rahimov19/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
   </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rahimov19)](https://git.io/streak-stats)]
+  <div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rahimov19)](https://git.io/streak-stats)
+</div>
