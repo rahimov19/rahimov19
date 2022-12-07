@@ -7,4 +7,14 @@
 rahimov19/rahimov19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,react,redux,git,github,bash,vscode&perline=16)](https://skillicons.dev)
+<p align="center">:fire: My Stats :</p>
+<div id="stats" align="center">
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+  </div>
+<div id="stats" align="center">
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+  </div>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rahimov19)](https://git.io/streak-stats)
