@@ -7,7 +7,9 @@
 rahimov19/rahimov19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align="center">
 [![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,react,redux,git,github,bash,vscode&perline=16)](https://skillicons.dev)
+</div>
 <p align="center">:fire: My Stats :</p>
 <div id="stats" align="center">
   
@@ -31,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   
   
   </div>
-  <div>
+  <div align="center">
   
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=rahimov19&theme=dark)](https://git.io/streak-stats)
