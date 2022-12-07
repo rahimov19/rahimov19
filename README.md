@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rahimov19
-- 👀 I’m interested in Coding and IT  
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full Stack Web Developement
+- 🌱 I’m currently learning React/Redux
 - 📫 How to reach me t.me/AkbaRahimov
 
 <!---
