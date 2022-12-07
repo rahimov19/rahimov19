@@ -12,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 <div id="stats" align="center">
   
   
-<img class="img" src="https://raw.githubusercontent.com/rahimov19/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/overview.svg#gh-dark-mode-only"/>
   
   
-<img class="img" src="https://raw.githubusercontent.com/rahimov19/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/languages.svg#gh-dark-mode-only"/>
   
 
   </div>
@@ -24,10 +24,10 @@ You can click the Preview link to take a look at your changes.
 <div id="stats" align="center">
   
   
-<img class="img" src="https://raw.githubusercontent.com/rahimov19/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/overview.svg#gh-light-mode-only"/>
   
   
-<img class="img" src="https://raw.githubusercontent.com/rahimov19/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/rahimov19/stats/master/generated/languages.svg#gh-light-mode-only"/>
   
   
   </div>
