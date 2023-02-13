@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahimov19
-- 👀 I’m interested in Full Stack Web Developement
-- 🌱 I’m currently learning React/Redux
+- 👀 I’m currently Full Stack Web Developer
+- 🌱 I’m currently learning SCSS, TS, MongoDB
 - 📫 How to reach me t.me/AkbaRahimov
 
 <!---
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   
   
-[![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,react,redux,git,github,bash,vscode&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,react,redux,git,github,bash,express,js,mongodb,ps,postgres,vscode&perline=16)](https://skillicons.dev)
   
   
 </div>
