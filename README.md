@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7D056A&center=true&width=435&lines=Hi!+It's+Akbar+here.+Welcome+to+my+GitHub+Page+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7D056A&width=650&lines=Hi!+It's+Akbar+here.+Welcome+to+my+GitHub+Page+%3C3)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @rahimov19
