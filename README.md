@@ -20,7 +20,11 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">LeetCode Statistics</h2>
 
 <div align="center">
+
+  
   ![LeetCode Stats](https://leetcode.card.workers.dev/rahimov19?theme=dark&font=baloo&extension=null)
+
+  
   </div>  
 <p align="center">:fire: My GitHub Stats :</p>
 <div id="stats" align="center">
