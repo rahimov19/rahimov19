@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   
 [![My Skills](https://skillicons.dev/icons?i=html,md,css,nodejs,bootstrap,ts,react,redux,git,github,bash,express,js,mongodb,ps,postgres,vscode&perline=16)](https://skillicons.dev)
   
-  
+  ![LeetCode Stats](https://leetcode.card.workers.dev/rahimov19?theme=dark&font=baloo&extension=null)
 </div>
 <p align="center">:fire: My Stats :</p>
 <div id="stats" align="center">
